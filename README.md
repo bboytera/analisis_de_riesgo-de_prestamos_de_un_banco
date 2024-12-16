@@ -27,7 +27,7 @@ El informe tendrá en cuenta la puntuación de crédito para un cliente potencia
 - Phyton
 - Pandas
   # Conclusión General
-  **Realizamos una exploración inicial de los datos:**
+**Realizamos una exploración inicial de los datos:**
 
 Viendo las siguientes inconsistencias;
 
